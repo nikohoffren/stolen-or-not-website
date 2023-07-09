@@ -15,12 +15,12 @@ const PrivacyPolicy = () => {
                                 1. Introduction
                             </div>
                             <p className="text-gray-600">
-                            StolenOrNot-app is a Google Chrome
-                                extension designed to streamline and simplify
-                                the process of scheduling meetings using Google
-                                Calendar. This Privacy Policy outlines our
-                                commitment to protecting the privacy of
-                                individuals who use our extension.
+                                StolenOrNot-app is a Google Chrome extension
+                                designed to streamline and simplify the process
+                                of scheduling meetings using Google Calendar.
+                                This Privacy Policy outlines our commitment to
+                                protecting the privacy of individuals who use
+                                our extension.
                             </p>
                         </div>
 
@@ -29,10 +29,10 @@ const PrivacyPolicy = () => {
                                 2. What data is being collected?
                             </div>
                             <p className="text-gray-600">
-                            StolenOrNot-app collects the following
-                                data from its users: Google Calendar event
-                                details. The extension accesses your Google
-                                Calendar events to provide its services.
+                                StolenOrNot-app collects the following data from
+                                its users: Google Calendar event details. The
+                                extension accesses your Google Calendar events
+                                to provide its services.
                             </p>
                         </div>
 
@@ -135,14 +135,14 @@ const PrivacyPolicy = () => {
                                 11. Third-Party Services
                             </div>
                             <p className="text-gray-600">
-                            StolenOrNot-app may utilize third-party
-                                services or APIs (e.g., Google Calendar API) to
-                                provide its functionalities. Such services may
-                                have theirown privacy policies and terms of
-                                service, and we encourage you to review them. We
-                                do not share your data with any third parties
-                                other than those necessary to provide the
-                                services of StolenOrNot-app.
+                                StolenOrNot-app may utilize third-party services
+                                or APIs (e.g., Google Calendar API) to provide
+                                its functionalities. Such services may have
+                                theirown privacy policies and terms of service,
+                                and we encourage you to review them. We do not
+                                share your data with any third parties other
+                                than those necessary to provide the services of
+                                StolenOrNot-app.
                             </p>
                         </div>
 
@@ -151,10 +151,9 @@ const PrivacyPolicy = () => {
                                 12. User Consent
                             </div>
                             <p className="text-gray-600">
-                                By using the StolenOrNot app,
-                                you consent to the collection, use, and
-                                processing of your data as outlined in this
-                                Privacy Policy.
+                                By using the StolenOrNot app, you consent to the
+                                collection, use, and processing of your data as
+                                outlined in this Privacy Policy.
                             </p>
                         </div>
 
@@ -165,7 +164,8 @@ const PrivacyPolicy = () => {
                             <p className="text-gray-600">
                                 If you have any questions or concerns regarding
                                 this Privacy Policy or the handling of your
-                                data, please contact us at niko.hoffren@gmail.com.
+                                data, please contact us at
+                                niko.hoffren@gmail.com.
                             </p>
                         </div>
 

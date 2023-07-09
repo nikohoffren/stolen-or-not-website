@@ -12,13 +12,13 @@ const App: React.FC = () => {
     return (
         <Router>
             <div>
-                <nav className="bg-gray-800 py-4">
+                <nav className="bg-orange-600 py-4">
                     <ul className="flex justify-center text-lg">
                         <li className="mr-6">
                             <NavLink
                                 end
                                 to="/"
-                                className="text-white hover:text-gray-300 hover:bg-gray-700 py-2 px-4 transition duration-300"
+                                className="text-white hover:text-gray-300 hover:bg-orange-700 py-2 px-4 transition duration-300"
                             >
                                 Home
                             </NavLink>
@@ -26,7 +26,7 @@ const App: React.FC = () => {
                         <li>
                             <NavLink
                                 to="/about"
-                                className="text-white hover:text-gray-300 hover:bg-gray-700 py-2 px-4 transition duration-300"
+                                className="text-white hover:text-gray-300 hover:bg-orange-700 py-2 px-4 transition duration-300"
                             >
                                 About
                             </NavLink>
