@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
                 <div className="relative px-4 py-10 bg-white mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
                     <div className="max-w-md mx-auto">
                         <div className="font-semibold text-xl text-gray-800 mb-4">
-                            Privacy Policy for StolenOrNot-app
+                            Privacy Policy for StolenOrNot Android App
                         </div>
 
                         <div className="mb-4">
@@ -15,12 +15,11 @@ const PrivacyPolicy = () => {
                                 1. Introduction
                             </div>
                             <p className="text-gray-600">
-                                StolenOrNot-app is a Google Chrome extension
-                                designed to streamline and simplify the process
-                                of scheduling meetings using Google Calendar.
-                                This Privacy Policy outlines our commitment to
+                                StolenOrNot is an Android app designed to allow
+                                users to track and report stolen devices. This
+                                Privacy Policy outlines our commitment to
                                 protecting the privacy of individuals who use
-                                our extension.
+                                our app.
                             </p>
                         </div>
 
@@ -29,10 +28,11 @@ const PrivacyPolicy = () => {
                                 2. What data is being collected?
                             </div>
                             <p className="text-gray-600">
-                                StolenOrNot-app collects the following data from
-                                its users: Google Calendar event details. The
-                                extension accesses your Google Calendar events
-                                to provide its services.
+                                StolenOrNot collects the following data from its
+                                users: Email, Password, and Device details.
+                                Users provide their email and password for
+                                authentication purposes, and device details are
+                                collected to track and report stolen devices.
                             </p>
                         </div>
 
@@ -41,8 +41,11 @@ const PrivacyPolicy = () => {
                                 3. How is the data being collected?
                             </div>
                             <p className="text-gray-600">
-                                Data is collected directly from the user's
-                                Google Calendar when they use the extension.
+                                Data is collected directly from the user when
+                                they register and use the app. Users
+                                authenticate via email and password or Google
+                                Authentication, and device details are added by
+                                users.
                             </p>
                         </div>
 
@@ -51,10 +54,11 @@ const PrivacyPolicy = () => {
                                 4. Why is the data being collected?
                             </div>
                             <p className="text-gray-600">
-                                The data is collected to facilitate the
-                                scheduling of meetings and to provide the user
-                                with a personalized experience when using the
-                                extension.
+                                The data is collected to authenticate users and
+                                facilitate the tracking and reporting of stolen
+                                devices. This data helps us provide a
+                                personalized and secure experience for our
+                                users.
                             </p>
                         </div>
 
@@ -64,9 +68,9 @@ const PrivacyPolicy = () => {
                             </div>
                             <p className="text-gray-600">
                                 The collected data is used solely for the
-                                operation of the extension. It is used to
-                                display and schedule events within the user's
-                                Google Calendar.
+                                operation of the app. It is used for
+                                authenticating users and tracking their added
+                                devices.
                             </p>
                         </div>
 
@@ -75,10 +79,9 @@ const PrivacyPolicy = () => {
                                 6. Who else has access to the data?
                             </div>
                             <p className="text-gray-600">
-                                The data accessed by Smart Meeting Scheduler is
-                                not shared with any third parties. The
-                                developers of the extension also do not have
-                                access to this data.
+                                The data accessed by StolenOrNot is not shared
+                                with any third parties. The developers of the
+                                app also do not have access to this data.
                             </p>
                         </div>
 
@@ -89,97 +92,7 @@ const PrivacyPolicy = () => {
                             <p className="text-gray-600">
                                 As a user, you have the right to access, modify,
                                 and delete your data. This can be done within
-                                the Google Calendar application itself.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                8. Updates to the policy
-                            </div>
-                            <p className="text-gray-600">
-                                We reserve the right to make changes to this
-                                Privacy Policy. Any changes will be posted on
-                                this page. We encourage you to review our
-                                Privacy Policy to stay informed.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                9. Data Security
-                            </div>
-                            <p className="text-gray-600">
-                                We are committed to protecting the security of
-                                your data. We implement appropriate technical
-                                and organizational measures to safeguard your
-                                data and prevent unauthorized access or
-                                disclosure.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                10. Data Retention
-                            </div>
-                            <p className="text-gray-600">
-                                We retain your calendar data only for as long as
-                                necessary to provide the services outlined in
-                                this Privacy Policy. Once the data is no longer
-                                required, we securely delete or anonymize it.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                11. Third-Party Services
-                            </div>
-                            <p className="text-gray-600">
-                                StolenOrNot-app may utilize third-party services
-                                or APIs (e.g., Google Calendar API) to provide
-                                its functionalities. Such services may have
-                                theirown privacy policies and terms of service,
-                                and we encourage you to review them. We do not
-                                share your data with any third parties other
-                                than those necessary to provide the services of
-                                StolenOrNot-app.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                12. User Consent
-                            </div>
-                            <p className="text-gray-600">
-                                By using the StolenOrNot app, you consent to the
-                                collection, use, and processing of your data as
-                                outlined in this Privacy Policy.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                13. Contact Information
-                            </div>
-                            <p className="text-gray-600">
-                                If you have any questions or concerns regarding
-                                this Privacy Policy or the handling of your
-                                data, please contact us at
-                                niko.hoffren@gmail.com.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
-                                14. Updates to the Privacy Policy
-                            </div>
-                            <p className="text-gray-600">
-                                We reserve the right to update or modify this
-                                Privacy Policy at any time. Any changes will be
-                                effective immediately upon posting the revised
-                                policy on our website. We encourage you to
-                                review this Privacy Policy periodically for any
-                                updates.
+                                the app itself.
                             </p>
                         </div>
                     </div>

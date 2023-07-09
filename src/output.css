@@ -619,9 +619,9 @@ video {
 .duration-300 {
   transition-duration: 300ms;
 }
-.hover\:bg-gray-700:hover {
+.hover\:bg-orange-700:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(55 65 81 / var(--tw-bg-opacity));
+  background-color: rgb(194 65 12 / var(--tw-bg-opacity));
 }
 .hover\:text-blue-800:hover {
   --tw-text-opacity: 1;
