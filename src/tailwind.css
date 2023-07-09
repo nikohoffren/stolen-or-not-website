@@ -1,0 +1,5 @@
+/* run `npm run build:css` to build */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
